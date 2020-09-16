@@ -89,7 +89,7 @@ let chengyu = [
   ['见利忘义', 'jiàn lì wàng yì', "to sell one's soul for gain"],
   ['见异思迁', 'jiàn yì sī qiān', 'to change at once when seeing something different'],
   ['见义勇为', 'jiàn yì yǒng wèi', 'to stand up bravely for the truth'],
-  ['捷足先登', 'jié zú xiān dēng', 'the early bird cathes the worm'],
+  ['捷足先登', 'jié zú xiān dēng', 'the early bird catches the worm'],
   ['进退两难', 'jìn tuì liǎng nán', 'trapped / in an impossible situation'],
   ['进退维谷', 'jìn tuì wéi gǔ', 'trapped / in an impossible situation'],
   ['精益求精', 'jīng yì qiú jīng', 'to perfect something that is already outstanding'],
