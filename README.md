@@ -4,6 +4,7 @@ Browser extension that displays a random chengyu when you open a new tab
 Download the extension:
 
 Chromium: https://chrome.google.com/webstore/detail/chengyu/okjbgilkooojbbnagfllhmhimmkhlnfk
+
 Firefox: https://addons.mozilla.org/addon/chengyu/
 
 ## Credits
